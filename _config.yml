@@ -1,0 +1,14 @@
+layout_spectrum: 0.9733287487179041
+typography_spectrum: 0.3665251201018691
+color:
+  brandStrength: 0.5533106927759945
+  lightness: 0.0809060966130346
+  saturation: 0.8170833757612854
+  rhythmicContrast: 0.9320480686146766
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Space Daily
